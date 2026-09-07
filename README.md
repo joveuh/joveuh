@@ -1,5 +1,3 @@
-### Jove Kane
-
 Forward-deployed AI engineer. Day job: operating systems and full-stack engineering.
 
 I build the plumbing that keeps LLM output usable when the model underneath
