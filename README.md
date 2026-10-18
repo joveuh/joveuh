@@ -8,6 +8,8 @@ for when a call just fails.
 🔭 Currently building: a monthly loop that turns one paper into a small
 runnable artifact and a write-up.
 
+**Videos:** what I am researching and building, in short clips on [LinkedIn](https://www.linkedin.com/in/jovekane/). Latest: [https://lnkd.in/p/guQDhZ6N](https://lnkd.in/p/guQDhZ6N)
+
 **Pinned below:**
 
 - **[human-atlas](https://github.com/joveuh/human-atlas)** — a browser atlas
